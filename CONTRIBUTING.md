@@ -1,6 +1,8 @@
 # Modular contributor guide
 
 Blah
+BLAH
+BLAH!!
 
 Thank you for your interest in contributing to this repository!
 
